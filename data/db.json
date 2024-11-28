@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Paul Prabhakaran",
+      "age": "25",
+      "address": "Vallioor"
+    },
+    {
+      "id": 3,
+      "name": "Vinish Kevin",
+      "age": "26",
+      "address": "Ngl"
+    },
+    {
+      "id": 4,
+      "name": "Antony Donald",
+      "age": "24",
+      "address": "Eruvadi"
+    },
+    {
+      "id": 5,
+      "name": "Kathir",
+      "age": "14",
+      "address": "Vallioor"
+    }
+  ]
+}
